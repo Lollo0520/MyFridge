@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bg_fridge_container">#EAEAEA</color>
+    <color name="bg_add_item_fab">#F7C537</color>
+    <color name="bg_recipes_desc">#E6F9F9F9</color>
+    <color name="recipe_matching_percent">#CDDC39</color>
+</resources>
